@@ -1,12 +1,16 @@
 <h1 align="center">HOLA!! Soy SARA MARULANDA</h1>
+
+
 <p align="center">
   <strong>Desarrolladora FullStack | Negociadora Internacional</strong>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sara-marulanda">LinkedIn</a> •
   <a href="mailto:saramarulanda12@gmail.com">Email</a>
 </p>
+
 
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript">
@@ -18,21 +22,24 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-Enthusiast-pink?style=flat-square&logo=tailwind-css">
 </p>
 
-<p align="center">
+<p align="center style="font-size: 12px">
  Me apasiona las tecnologías de vanguardia por lo que mi experiencia en front-end incluye CSS, TailwindCSS, React, Redux y HTML5, mientras que en e el back-end, destacan mis habilidades en JavaScript ,Node.js, Express y PostgreSQL.
   
 Me encanta el orden y la agilidad por eso trabajo con metodologías de SCRUM, Mi capacidad para relacionarme con diferentes culturas enriquece mi enfoque y me motiva a explorar nuevas fronteras en el mundo digital.
 
 </p>
 
-<p align="center">
+
+<p align="center"style="font-size: 12px">
   💻 JavaScript | React | Redux | Tailwind | CSS | HTML | Node | Express | PostgreSQL | Negocios Internacionales<br>
   🚀 Metodologías Ágiles | Git | Trabajo en Equipo | Autogestion
 </p>
 
+
 <p align="center">
 Graduada de Henry, he potenciado mis habilidades a través de la creación de proyectos desafiantes. Destaco por haber realizado un Proyecto Individual (PI VIDEOGAMES) donde apliqué mis conocimientos, y también he colaborado en un Proyecto Final de equipo (PF WANDERLUST) que mostró mi capacidad para trabajar de manera colaborativa, ordenada y eficiente.
 </p>
+
 
 <p align="center">
   ¡Conéctate conmigo en <a href="https://www.linkedin.com/in/sara-marulanda">LinkedIn</a>!
