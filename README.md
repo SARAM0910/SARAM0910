@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
- Me apasiona las tecnologías de vanguardia por lo que mi experiencia en front-end incluye CSS, TailwindCSS, React, Redux y HTML5, mientras que en e el back-end, destacan mis habilidades en JavaScript ,Node.js, Express y PostgreSQL.
+Me apasiona las tecnologías de vanguardia por lo que mi experiencia en front-end incluye CSS, TailwindCSS, React, Redux y HTML5, mientras que en e el back-end, destacan mis habilidades en JavaScript ,Node.js, Express y PostgreSQL.
   
 Me encanta el orden y la agilidad por eso trabajo con metodologías de SCRUM, Mi capacidad para relacionarme con diferentes culturas enriquece mi enfoque y me motiva a explorar nuevas fronteras en el mundo digital.
 
@@ -31,7 +31,6 @@ Me encanta el orden y la agilidad por eso trabajo con metodologías de SCRUM, Mi
 
 
 <p align="center"style="font-size: 12px">
-  ## Habilidades
   💻 JavaScript | React | Redux | Tailwind | CSS | HTML | Node | Express | PostgreSQL | Negocios Internacionales<br>
   🚀 Metodologías Ágiles | Git | Trabajo en Equipo | Autogestion
 </p>
