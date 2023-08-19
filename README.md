@@ -1,10 +1,10 @@
-<h1 align="center"HOLA!! Soy SARA MARULANDA</h1>
+<h1 align="center">HOLA!! Soy SARA MARULANDA</h1>
 <p align="center">
   <strong>Desarrolladora FullStack | Negociadora Internacional</strong>
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sara-marulanda">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sara-marulanda">LinkedIn</a> •
   <a href="mailto:saramarulanda12@gmail.com">Email</a>
 </p>
 
@@ -31,11 +31,11 @@ Me encanta el orden y la agilidad por eso trabajo con metodologías de SCRUM, Mi
 </p>
 
 <p align="center">
-Graduada de Henry, he ptenciado mis habilidades a través de la creación de proyectos desafiantes. Destaco por haber realizado un Proyecto Individual (PI VIDEOGAMES) donde apliqué mis conocimientos , y también he colaborado en un Proyecto Final de equipo (PF WANDERLUST) que mostró mi capacidad para trabajar de manera colaborativa, ordenada y eficiente
+Graduada de Henry, he potenciado mis habilidades a través de la creación de proyectos desafiantes. Destaco por haber realizado un Proyecto Individual (PI VIDEOGAMES) donde apliqué mis conocimientos, y también he colaborado en un Proyecto Final de equipo (PF WANDERLUST) que mostró mi capacidad para trabajar de manera colaborativa, ordenada y eficiente.
 </p>
 
 <p align="center">
-  ¡Conéctate conmigo en <a href="www.linkedin.com/in/sara-marulanda">LinkedIn</a>!
+  ¡Conéctate conmigo en <a href="https://www.linkedin.com/in/sara-marulanda">LinkedIn</a>!
 </p>
 
 <p align="center">
@@ -43,5 +43,5 @@ Graduada de Henry, he ptenciado mis habilidades a través de la creación de pro
 </p>
 
 <p align="center">
-  ¡Feliz de sumarme al mundo de la tecnología con mi experiencia previa  y habilidades versátiles! ✔️✔️✔️
+  ¡Feliz de sumarme al mundo de la tecnología con mi experiencia previa y habilidades versátiles! ✔️✔️✔️
 </p>
