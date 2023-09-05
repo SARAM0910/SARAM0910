@@ -43,7 +43,7 @@ A Henry graduate, I have enhanced my skills through creating challenging project
 
 
 <p align="center">
-  ¡Connect with me at<a href="https://www.linkedin.com/in/sara-marulanda">LinkedIn</a>!
+  ¡Connect with me at <a href="https://www.linkedin.com/in/sara-marulanda">LinkedIn</a>!
 </p>
 
 <p align="center">
